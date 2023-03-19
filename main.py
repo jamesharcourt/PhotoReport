@@ -6,6 +6,9 @@ from PIL import ImageTk, Image, ImageOps
 from fpdf import FPDF
 from tkinter import filedialog
 
+# Local Modules
+
+
 # Configure Workspace
 root = tk.Tk()
 root.eval('tk::PlaceWindow . center')
